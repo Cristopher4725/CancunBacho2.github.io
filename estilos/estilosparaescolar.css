@@ -1,0 +1,109 @@
+h2{
+    width: 100%
+}
+.futbol{
+    display: inline-block;
+}
+.danza{
+    display: inline-block;
+}
+.teatro{
+    display: inline-block;
+}
+#logo1{
+    width: 40%;
+    float: left;
+}
+#logo2{
+    width: 40%;
+    float: left;
+}
+#logo3{
+    width: 40%;
+    float: left;
+}
+#logo4{
+    width: 40%;
+    float: right
+}
+#logo5{
+    width: 40%;
+    float: left;
+}
+#logo6{
+    width: 40%;
+   float: right;
+}
+#logo7{
+    width: 30%;
+    height: 20%
+}
+#p1{
+    border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p2{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p3{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p4{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 40%;
+}
+#p5{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p6{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+#p7{
+     border: groove;
+    border-width: thick;
+    font-size: 20px;
+    border-color: aquamarine;
+    display: inline-block;
+    float: right;
+    width: 70%;
+}
+h1{
+    font-size: 50px;
+    background: linear-gradient(to right, #ff0000, #0000ff);
+     -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,67 @@
+#titulocolegio1{
+    font-size: 40px;
+     background-image: linear-gradient(90deg,#007cf0, #00DFD8);
+         -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    text-align: center;
+    display: flex;
+    align-content: center;
+}
+.salon{
+    display: inline-block;
+}
+#logotipo2{
+    float: left;
+}
+#mascotabacho{
+    width: 30%;
+    float: left;
+    border: groove;
+    display: inline-block;
+    clear: both;
+}
+#parrafocolegio2{
+    width: 60%;
+    float: right;
+    border: outset;
+    border-color: aqua;
+    display: inline-block;
+}
+#parrafocolegio1{
+      border: outset;
+    border-color: aqua;
+}
+h2{
+     background-image: linear-gradient(90deg,#007cf0, #00DFD8);
+         -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-size: 30px;
+    clear: both;
+}
+#grupo1{
+    
+    width: 40%;
+    border: outset;
+    border-color: aqua;
+    display: inline-block;
+}
+#parrafocolegio3{
+    clear: both;
+    display: inline-block;
+    border: outset;
+    float: left;
+    border-color: aqua;
+    width: 50%;
+}
+#fuera1{
+    display: inline-block;
+    width: 25%
+}
+#fuera2{
+    display: inline-block;
+    width: 25%
+}
+#fuera3{
+    display: inline-block;
+    width: 15%;
+}
