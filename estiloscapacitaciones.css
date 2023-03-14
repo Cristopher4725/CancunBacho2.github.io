@@ -1,0 +1,78 @@
+h2{
+    font-size: 60px;
+     background-image: linear-gradient(90deg,#007cf0, #00DFD8);
+         -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#logo1{
+    display: inline-block;
+    width: 43%;
+    float: left;
+}
+.turismo{
+    display: inline-block;
+}
+#p1{
+    display: inline-block;
+    width: 50%;
+    font-size: 20px;
+}
+#logo2{
+    display: inline-block;
+    width: 40%;
+    float: right;
+}
+    #p2{
+    display: inline-block;
+     width: 50%;
+    float: right;
+    font-size: 20px;
+}
+#logo3{
+    display: inline-block;
+    width: 40%;
+    float: left;
+}
+#p3{
+    display: inline-block;
+     width: 50%;
+    float: right;
+    font-size: 20px;
+}
+#logo4{
+    display: inline-block;
+    width: 40%;
+    float: left;
+}
+#p4{
+    display: inline-block;
+     width: 50%;
+    float: right;
+    font-size: 20px;
+}
+#subtitulo5{
+    float: right;
+    display: inline-block;
+    width: 40%
+}
+#logo5{
+    display: inline-block;
+    width: 40%;
+    float: right;
+}
+#p5{
+    display: inline-block;
+     width: 50%;
+    float: right;
+    font-size: 20px;
+}
+h1{
+    font-size: 70px;
+    background: linear-gradient(to right, #ff0099, #493240);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.Pmusica{
+    position: relative;
+    top: 200px;
+}

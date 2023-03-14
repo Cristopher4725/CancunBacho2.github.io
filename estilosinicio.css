@@ -1,0 +1,18 @@
+#tituloinicio{
+    display: inline-block;
+    width: 50%;
+    font-size: 20px;
+    background: linear-gradient(to right, #ff0099, #493240);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#logoinicio1{
+    display: inline-block;
+    width: 40%;
+    border: outside;
+}
+#textoinicio{
+  border: groove;
+    border-color: aqua;
+    font-size: 20px;
+}
